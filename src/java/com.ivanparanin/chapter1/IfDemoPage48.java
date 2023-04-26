@@ -3,8 +3,8 @@ package chapter1;
 public class IfDemoPage48 {
     public static void main(String args[]) {
         int a, b, c;
-        a = 2;
-        b = 3;
+        a = 3;
+        b = 4;
 
         if (a < b) {
             System.out.println("a меньше b");
