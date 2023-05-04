@@ -1,4 +1,4 @@
-package com.ivanparanin.chapter12;
+package chapter12;
 
  enum Transport {
      CAR, TRUCK, AIRPLANE, TRAIN, BOAT

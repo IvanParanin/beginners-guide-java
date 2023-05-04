@@ -1,4 +1,4 @@
-package com.ivanparanin.chapter12;
+package chapter12;
 
 public class EnumDemo4 {
     public static void main(String[] args) {

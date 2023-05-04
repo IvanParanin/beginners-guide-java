@@ -6,7 +6,187 @@
   <component name="ChangeListManager">
     <list default="true" id="003c37b6-2460-49b0-af9b-f0b7857ff6d4" name="Changes" comment="new edit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beginners-guide-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/beginners-guide-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/Example.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/Example2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/Example3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter1/BlockDemoPage50.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter1/ForDemoPage49.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter1/GalToLit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter1/GalToLitTablePage52.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter1/HomeWork10Page55.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter1/HomeWork9Page55.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter1/IfDemoPage48.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter2/BoolDemoPage63.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter2/CastDemoPage82.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter2/HomeWork1Page88.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter2/HomeWork2Page88.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter2/HomeWork3Page88.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter2/LTodPage81.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter2/LogicalOpTablePage84.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter2/ModDemoPage73.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter2/PromDemoPage86.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter2/RelLogOpsPage76.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter2/SCopsPage77.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter2/ScopeDemoPege70.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter2/SideEffectsPage78.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter2/SoundPage64.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter2/StrDemoPage67.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter2/UseCastPage86.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter2/VarInitDemoPage71.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/BreakDemo2Page114.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/BreakDemo3Page114.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/BreakDemo4Page116.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/BreakDemo5Page117.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/BreakDemo6Page117__.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/BreakDemoPage113.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/CommaPage103.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/ContDemoPage119.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/ContToLabe1Page120.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/DWDemoPage109.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/DecrForPage102.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/Empty3Page105.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/EmptyPage104.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/Emty2Page104.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/FarVarPage106.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/FindFacPage124__.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/ForTestPage103.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/Guess2Page92.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/Guess3Page93.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/Guess4Page109.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/GuessPage92.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/Help2Page111.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/Help3Page121.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/HelpPage99.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/KbInPage91.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/LadderPage94.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/MyWork.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/MyWork2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/NoBreakPage97.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/PowerPage108.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/SqrRootPage102.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/SwitchDemoPage96.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/Test1Page125.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/Test2Page125__.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/Test3Page125.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/Test4Page126.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter3/WhileDemoPage107.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter4/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter4/CarConsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter4/ChkNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter4/FDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter4/Factor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter4/Finalize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter4/Help.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter4/HelpClassDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter4/Money.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter4/MoneyDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter4/ParmDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter4/Test4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter4/TestStart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter4/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter4/VehicleDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter4/isFact.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter5/ACopy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter5/ArrayDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter5/AssignARef.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter5/Bubble__.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter5/CLDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter5/Encode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter5/ForEach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter5/ForEach2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter5/LengthDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter5/LowCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter5/MinMax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter5/NoZeroDiv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter5/NotDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter5/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter5/QDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter5/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter5/Ragged__.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter5/Search.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter5/Sguares.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter5/ShowBits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter5/StrOps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter5/StringArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter5/StringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter5/StringSwitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter5/SubStr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter5/TwoD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter5/UpCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/AccessDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/Block.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/CallByRef.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/Err.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/ErrInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/ErrorInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/FSDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/FailSoftArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/LocalClassDemo$1ShowBits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/LocalClassDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/MyClass2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/NestsdClassDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/Outer$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/Outer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/Overload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/Overload2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/OverloadConsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/OverloadDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/PassOb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/QDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/QSDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/Queue2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/Quicksort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/Recursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/SDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/SDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/SDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/StaticBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/StaticDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/StaticMeth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/SumDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/Summation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/TypeConv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/VarArgs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/VarArgs2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter6/VarArgs3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/A1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/B1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/C1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/ColorTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/OrderOfConstruction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/Shapes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/Shapes2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/Shapes3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/Shapes4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/Shapes5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/Shapes6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/Triangle1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/Triangle2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/Triangle3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/Triangle4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/Triangle5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/Truck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/TruckDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/TwoDShape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/TwoDShape2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/TwoDShape3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/TwoDShape4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/TwoDShape5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/TwoDShape6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/UseSuper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-7/chapter7/Vehicle1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter12/EnumDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter12/EnumDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter12/EnumDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter12/EnumDemo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter12/TrafficLightColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter12/TrafficLightColor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter12/Transport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter12/Transport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter12/Transport1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/ivanparanin/chapter12/Transport1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +219,7 @@
       <recent name="$PROJECT_DIR$/src/java/com" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EnumDemo3">
+  <component name="RunManager" selected="Application.GenericMethodDemo">
     <configuration name="CastDemoPage82" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter2.CastDemoPage82" />
       <module name="beginners-guide-java" />
@@ -59,6 +239,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ivanparanin.chapter12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivanparanin.chapter13.GenericMethodDemo" />
+      <module name="beginners-guide-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ivanparanin.chapter13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,6 +287,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericMethodDemo" />
         <item itemvalue="Application.EnumDemo3" />
         <item itemvalue="Application.MoreThreads2" />
         <item itemvalue="Application.ScopeDemoPege70" />

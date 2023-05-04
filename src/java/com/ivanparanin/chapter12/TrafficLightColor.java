@@ -1,4 +1,4 @@
-package com.ivanparanin.chapter12;
+package chapter12;
 // Имитация автоматизированного светофора с использованием перечисления
 // Перечисление, представляющее цвета светофора
 public enum TrafficLightColor {

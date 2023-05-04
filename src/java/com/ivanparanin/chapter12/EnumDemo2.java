@@ -1,4 +1,4 @@
-package com.ivanparanin.chapter12;
+package chapter12;
 // использование встроенных методов перечислений
 public class EnumDemo2 {
     public static void main(String[] args) {
