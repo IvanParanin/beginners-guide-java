@@ -1,4 +1,4 @@
-package com.ivanparanin.chapter13;
+package chapter13;
 
 public class GenericMethodDemo {
     // Определить, совпадает ли содержимое двух массивов
